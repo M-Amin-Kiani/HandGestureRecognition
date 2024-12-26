@@ -1,0 +1,6 @@
+## HANDS: a dataset of static Hand-Gestures for Human-Robot Interaction ##
+
+https://data.mendeley.com/datasets/ndrczc35bt/1
+
+we use subj1 & subj2 for : Test + Val + Train
+
