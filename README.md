@@ -1,6 +1,8 @@
 # HandGestureRecognition
 #### detect the gesture of each hand with YOLO8n ####
 
+![photo_2024-12-09_21-42-17](https://github.com/user-attachments/assets/afb5b8b6-aec7-4ef0-b232-0c7b4857db03)
+
 ![Capture_2024_12_25_14_34_03_77](https://github.com/user-attachments/assets/94542abb-8a48-48ef-a32e-4f02f5811f73)
 
 --------------------------------------------------------------------------
