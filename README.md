@@ -1,3 +1,78 @@
+
+# ✋ Hand Gesture Recognition with YOLOv8n | تشخیص حرکات دست با YOLOv8n
+
+## 📌 Overview | معرفی
+
+This project uses the YOLOv8n model to detect and classify hand gestures in images and video.  
+این پروژه از مدل YOLOv8n برای شناسایی حرکات دست در تصویر و ویدیو استفاده می‌کند.
+
+---
+
+## 🛠️ Requirements | پیش‌نیازها
+
+- Python
+- Libraries:
+  - ultralytics
+  - opencv-python
+
+Install with:
+```bash
+pip install ultralytics opencv-python
+```
+
+---
+
+## 📂 Folder Structure | ساختار پروژه
+
+```
+HandGestureRecognition/
+├── DataSet/
+├── Model Progressing/
+├── Testing model with WebCam/
+├── src/
+├── OurDoc.pdf
+└── README.md
+```
+
+---
+
+## 🚀 How to Run | نحوه‌ی اجرا
+
+1. کلون کردن ریپازیتوری:
+```bash
+git clone https://github.com/M-Amin-Kiani/HandGestureRecognition.git
+cd HandGestureRecognition
+```
+
+2. نصب کتابخانه‌های موردنیاز:
+```bash
+pip install ultralytics opencv-python
+```
+
+3. آماده‌سازی دیتاست و آموزش مدل در پوشه `src/`
+
+4. تست مدل آموزش‌دیده با وب‌کم از طریق پوشه `Testing model with WebCam/`
+
+---
+
+## ✍️ Author | نویسنده
+
+- Mohammad Amin Kiani  
+- GitHub: [M-Amin-Kiani](https://github.com/M-Amin-Kiani)
+
+---
+
+## 📄 License | مجوز
+
+MIT License
+
+---
+
+## 📬 Support | پشتیبانی
+
+در صورت بروز مشکل، لطفاً یک issue در گیت‌هاب باز کنید.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 # HandGestureRecognition
 #### detect the gesture of each hand with YOLO8n ####
 
